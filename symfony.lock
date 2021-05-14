@@ -225,6 +225,9 @@
             "./config/packages/sensio_framework_extra.yaml"
         ]
     },
+    "symfony/annotations-pack": {
+        "version": "v1.0.0"
+    },
     "symfony/asset": {
         "version": "v4.4.22"
     },
